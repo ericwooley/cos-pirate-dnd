@@ -117,3 +117,13 @@
 suicidal pirates that don't loot, they just want to fight
 
 * gov't started it's campaign 60 70 years ago
+
+## Raylin
+17 year old bounty hunter
+started at 14
+
+## Grilgar the giant
+Doin ok
+
+## Red finch (famous sailor)
+    not quite pirate, dubious, always at sea, trader. Had a knack for finding mythical items
