@@ -37,3 +37,8 @@ Tick marks increase bounty
         * annoying people an hour outside of port
         * (do not harm)
         * 3 tickmarks
+
+    5. EVERYONE IS LOOKING FOR THE RED FINCH!
+        * all generals are looking for it
+    6. Escort people to saltstone
+        * guide from Valcodore

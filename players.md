@@ -1,4 +1,5 @@
 ## Digby
+    rogue
     Digbies hat of greatness
     has a ship
         Pirates all got swallow tattoos
@@ -8,6 +9,7 @@
         3 kids
 
 ## stor Oghbrough (mr)
+    fighter
     19
     hairless
     tatoos
@@ -15,8 +17,11 @@
 
     hired by the first mate of the general
         Ivar is the first mate of general thorgrim firebeard
+    
+    
 
 ## feanor
+    cleric
     Icariums half/brother
     hunted magic users
         turned out to be unholy / unlawful

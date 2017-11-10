@@ -48,6 +48,13 @@
     * fierce fighter
     * only has 1 friend (captain thorgrim)
     * Inn: the drowning sailor
+
+    * giant from giant island,
+        red tatoos
+    * in saltstone to "dull enemies blade before fighting"
+    * deemed a traiter from the giant island
+
+    
 1. captain thorgrim firebeard (goes by general, not general thorgrim)
     * 200 years old
     * ex military
@@ -70,6 +77,7 @@
     * got a lot to prove
     * good at what he does
     * Inn: the sirens call
+
 1. Mada'm wrynn amrici
     * Halfling
     * late 50's
@@ -127,3 +135,24 @@ Doin ok
 
 ## Red finch (famous sailor)
     not quite pirate, dubious, always at sea, trader. Had a knack for finding mythical items
+
+
+## Hortiln Axebeard (The first mate)
+The Generals first mate (just call him first mate)
+runs the most profitable ship under the general
+Total douchebag
+
+## firebog Queens right hand man
+Giant 
+Giant scithe
+kinda ornary
+
+
+# Captains V Queen
+captains could crush the queen if they wanted
+
+## Harbormaster
+    Zangold
+        Harbormaster - human, basically the governor
+        Gemwald
+            Harbormasters mage
